@@ -6,7 +6,7 @@
   Tenho 23 anos e sou <strong>Desenvolvedora Front-End</strong>.
 
 
-Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
+Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado(a) em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
 
 <h2 align="left">
  🦄 Linguagens:
