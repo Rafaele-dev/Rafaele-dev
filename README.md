@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Tenho 23 anos e sou <strong>Desenvolvedora Front-End</strong>.
+  Tenho 23 anos e sou <strong>Desenvolvedora Web</strong>.
 
 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado(a) em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo. Adoro conhecer novas pessoas e explorar maneiras de tornar o mundo digital um lugar melhor.
